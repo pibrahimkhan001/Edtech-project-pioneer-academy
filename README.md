@@ -42,7 +42,7 @@ Pioneer Academy Platform is a **full-stack coaching institute management system*
 
 ## System Architecture
 
-![Pioneer Academy Platform — System Architecture](./docs/architecture.png)
+![Pioneer Academy Platform — System Architecture](./Docs/architecture.png)
 
 The platform follows a clean four-tier architecture:
 
